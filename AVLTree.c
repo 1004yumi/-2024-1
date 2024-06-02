@@ -1,5 +1,5 @@
-//202314409 김유미 
-//
+// 202314409 김유미 
+// 10주차 퀴즈 1.
 
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
